@@ -1,0 +1,128 @@
+body{
+	background-color: white;
+	margin-top:  0px;
+}
+
+.topbox{
+	width: 1000px;
+	height: 300px;
+	margin: auto;
+	background-color: darkgrey;
+}
+.title{
+	position: relative;
+	left: 400px;
+	position: relative;
+	top:-225px;
+	color: black;
+	font-family: 'Playfair Display', serif;
+	font-weight: 700;
+	font-style: normal;
+	color: white;
+
+}
+.image{
+	position: relative;
+	left: 140px;
+}
+.prep_time{
+	position: relative;
+	left: 415px;
+	top: -220px;
+	font-family: 'Playfair Display', serif;
+	font-weight: 700;
+	font-style: normal;
+	color: white;
+}
+.cook_time{
+	position: relative;
+	left: 545px;
+	top: -260px;
+	font-family: 'Playfair Display', serif;
+	font-weight: 700;
+	font-style: normal;
+	color: white;
+}
+.total_time{
+	position: relative;
+	left: 680px;
+	top: -300px;
+	font-family: 'Playfair Display', serif;
+	font-weight: 700;
+	font-style: normal;
+	color: white;
+}
+.prep_time_min{
+	position: relative;
+	left: 420px;
+	top: -315px;
+	font-family: 'Playfair Display', serif;
+	font-weight: 700;
+	font-style: normal;
+	color: white;
+}
+.cook_time_min{
+	position: relative;
+	left: 555px;
+	top: -358px;
+	font-family: 'Playfair Display', serif;
+	font-weight: 400;
+	font-style: normal;
+	color: white;
+}
+.total_time_min{
+	position: relative;
+	left: 688px;
+	top: -398px;
+	font-family: 'Playfair Display', serif;
+	font-weight: 700;
+	font-style: normal;
+	color: white;
+}
+.ingredients{
+	position: relative;
+	left: 450px;
+	top: 0px;
+	font-family: 'Playfair Display', serif;
+	font-weight: 700;
+	font-style: normal;
+}
+.steps{
+	position: relative;
+	left: 900px;
+	top: -220px;
+	font-family: 'Playfair Display', serif;
+	font-weight: 700;
+	font-style: normal;
+}
+.ingredients_list{
+	position: relative;
+	left: 400px;
+	top: 0px;
+	font-family: 'Playfair Display', serif;
+	font-size: 16px;
+	font-weight: 100;
+	font-style: normal;
+}
+.line{
+	width: 400px;
+	height: 1px;
+	background-color: white;
+}
+.steps_list{
+	position: relative;
+	left: 0px;
+	top: 20px;
+	font-family: 'Playfair Display', serif;
+	font-weight: 100;
+	font-style: normal;
+	color: white;
+}
+.middlebox{
+	position: relative;
+	top: -220px;
+	left: 220px;
+	width: 570px;
+	height: 300px;
+	margin: auto;
+	background-color: darkgrey;
